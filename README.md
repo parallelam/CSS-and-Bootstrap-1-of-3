@@ -1,2 +1,3 @@
-# W2C1
-W2C1
+# CSS-and-Bootstrap-1-of-3
+
+Refresher activities with simplistic concepts surrounding HTML, CSS and grid systems; ie Bootstrap.
